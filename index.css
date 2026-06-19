@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+}
+
+h1 {
+  color: #1f4e79;
+}
+
+table {
+  width: 100%;
+  background: white;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #1f4e79;
+  color: white;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+}
+
+button:first-child {
+  background-color: green;
+  color: white;
+}
+
+button:last-child {
+  background-color: red;
+  color: white;
+}
